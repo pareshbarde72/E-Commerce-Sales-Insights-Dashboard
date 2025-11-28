@@ -19,4 +19,8 @@ Customer delivery outcomes are summarized in a dedicated pie chart that breaks d
 
 The dashboard also tracks average shipping cost and average transit-storage time across categories and cities. These insights help understand the operational side of the business—where costs can be optimized, where delays occur, and which product categories or routes are more efficient.
 
-Altogether, this dashboard serves as a practical decision-making tool for sales teams, operations managers, and logistics planners. It brings all essential metrics into a single, easy-to-navigate view, allowing businesses to evaluate performance quickly and take action with confidence.
+E-commerce performance is driven mainly by Mobiles and Laptops, while categories like Gaming and Tablets lag behind.
+Bengaluru and Delhi contribute the highest order volumes, with Kolkata showing comparatively lower demand.
+Most orders are successfully delivered, with cancellations and returns staying minimal.
+Fast Wheels Ltd dominates logistics operations, handling the majority of shipments.
+Shipping costs and transit times vary across categories and cities, with premium products and slower-moving regions showing higher operational overhead.
