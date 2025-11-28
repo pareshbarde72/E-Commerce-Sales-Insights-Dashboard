@@ -26,8 +26,3 @@ Fast Wheels Ltd dominates logistics operations, handling the majority of shipmen
 Shipping costs and transit times vary across categories and cities, with premium products and slower-moving regions showing higher operational overhead.
 
 
-#Tools used:
-
-Excel
-Slicer
-Pivot Table
