@@ -7,7 +7,7 @@ Pivot table
 slicers
 Data Cleaning
 
-E-Commerce Dashboard Summary 
+**E-Commerce Dashboard Summary**
 
 This dashboard presents a complete visual overview of the e-commerce business performance by combining sales, delivery, logistics, and operational data into one interactive Excel workspace. It uses Pivot Charts and Slicers, allowing users to switch between product categories, delivery statuses, logistics partners, and cities without manual filtering.
 
