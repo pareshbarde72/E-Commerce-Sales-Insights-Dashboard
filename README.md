@@ -24,3 +24,10 @@ Bengaluru and Delhi contribute the highest order volumes, with Kolkata showing c
 Most orders are successfully delivered, with cancellations and returns staying minimal.
 Fast Wheels Ltd dominates logistics operations, handling the majority of shipments.
 Shipping costs and transit times vary across categories and cities, with premium products and slower-moving regions showing higher operational overhead.
+
+
+#Tools used:
+
+Excel
+Slicer
+Pivot Table
